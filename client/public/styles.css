@@ -1,0 +1,18 @@
+html {
+  font-family: 'Noto Sans', sans-serif;
+  color: #FFF;
+}
+
+body {
+  background-color: #141414;
+}
+
+footer {
+  background-color: #000;
+  color: #D3D3D3;
+  position: absolute;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+  font-size: 8px;
+}
