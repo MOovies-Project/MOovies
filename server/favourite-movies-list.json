@@ -1,5 +1,558 @@
 [
   {
+    "id": "001",
+    "title": "21",
+    "imdbRating": 6.8,
+    "year": 2008,
+    "length": "2h 3min",
+    "genres": ["Crime", "Drama", "History"]
+  },
+  {
+    "id": "002",
+    "title": "1917",
+    "imdbRating": 8.3,
+    "year": 2019,
+    "length": "1h 59min",
+    "genres": ["Drama", "Thriller", "War"]
+  },
+  {
+    "id": "003",
+    "title": "12 Years a Slave",
+    "imdbRating": 8.1,
+    "year": 2013,
+    "length": "2h 14min",
+    "genres": ["Biography", "Drama", "History"]
+  },
+  {
+    "id": "004",
+    "title": "A Beautiful Mind",
+    "imdbRating": 8.2,
+    "year": 2001,
+    "length": "2h 15min",
+    "genres": ["Biography", "Drama"]
+  },
+  {
+    "id": "005",
+    "title": "A Few Good Men",
+    "imdbRating": 7.7,
+    "year": 1992,
+    "length": "2h 18min",
+    "genres": ["Drama", "Thriller"]
+  },
+  {
+    "id": "006",
+    "title": "American Beauty",
+    "imdbRating": 8.3,
+    "year": 1999,
+    "length": "2h 2min",
+    "genres": ["Drama"]
+  },
+  {
+    "id": "007",
+    "title": "American Gangster",
+    "imdbRating": 7.8,
+    "year": 2007,
+    "length": "2h 37min",
+    "genres": ["Biography", "Crime", "Drama"]
+  },
+  {
+    "id": "008",
+    "title": "Angels & Demons",
+    "imdbRating": 6.7,
+    "year": 2009,
+    "length": "2h 18min",
+    "genres": ["Action", "Mystery", "Thriller"]
+  },
+  {
+    "id": "009",
+    "title": "Argo",
+    "imdbRating": 7.7,
+    "year": 2012,
+    "length": "2h",
+    "genres": ["Biography", "Drama", "Thriller"]
+  },
+  {
+    "id": "010",
+    "title": "Blood Diamond",
+    "imdbRating": 8.0,
+    "year": 2006,
+    "length": "2h 23min",
+    "genres": ["Adventure", "Drama", "Thriller"]
+  },
+  {
+    "id": "011",
+    "title": "Braveheart",
+    "imdbRating": 8.3,
+    "year": 1995,
+    "length": "2h 58min",
+    "genres": ["Biography", "Drama", "History"]
+  },
+  {
+    "id": "012",
+    "title": "Capharnaüm",
+    "imdbRating": 8.4,
+    "year": 2018,
+    "length": "2h 6min",
+    "genres": ["Drama"]
+  },
+  {
+    "id": "013",
+    "title": "Casino Royale",
+    "imdbRating": 8.0,
+    "year": 2006,
+    "length": "2h 24min",
+    "genres": ["Action", "Adventure", "Thriller"]
+  },
+  {
+    "id": "014",
+    "title": "Cast Away",
+    "imdbRating": 7.8,
+    "year": 2000,
+    "length": "2h 23min",
+    "genres": ["Adventure", "Drama", "Romance"]
+  },
+  {
+    "id": "015",
+    "title": "Catch Me If You Can",
+    "imdbRating": 8.1,
+    "year": 2002,
+    "length": "2h 21min",
+    "genres": ["Biography", "Crime", "Drama"]
+  },
+  {
+    "id": "016",
+    "title": "City of God",
+    "imdbRating": 8.6,
+    "year": 2002,
+    "length": "2h 10min",
+    "genres": ["Crime", "Drama"]
+  },
+  {
+    "id": "017",
+    "title": "Coach Carter",
+    "imdbRating": 7.3,
+    "year": 2005,
+    "length": "2h 16min",
+    "genres": ["Biography", "Drama", "Sport"]
+  },
+  {
+    "id": "018",
+    "title": "Dead Poets Society",
+    "imdbRating": 8.1,
+    "year": 1989,
+    "length": "2h 8min",
+    "genres": ["Comedy", "Drama"]
+  },
+  {
+    "id": "019",
+    "title": "Django Unchained",
+    "imdbRating": 8.4,
+    "year": 2012,
+    "length": "2h 45min",
+    "genres": ["Drama", "Western"]
+  },
+  {
+    "id": "020",
+    "title": "Dunkirk",
+    "imdbRating": 7.8,
+    "year": 2017,
+    "length": "1h 46min",
+    "genres": ["Action", "Drama", "History"]
+  },
+  {
+    "id": "021",
+    "title": "Erin Brockovich",
+    "imdbRating": 7.4,
+    "year": 2000,
+    "length": "2h 11min",
+    "genres": ["Biography", "Drama"]
+  },
+  {
+    "id": "022",
+    "title": "Ex Machina",
+    "imdbRating": 7.7,
+    "year": 2014,
+    "length": "1h 48min",
+    "genres": ["Drama", "Sci-Fi", "Thriller"]
+  },
+  {
+    "id": "023",
+    "title": "Fences",
+    "imdbRating": 7.2,
+    "year": 2016,
+    "length": "2h 19min",
+    "genres": ["Drama"]
+  },
+  {
+    "id": "024",
+    "title": "Fight Club",
+    "imdbRating": 8.8,
+    "year": 1999,
+    "length": "2h 19min",
+    "genres": ["Drama"]
+  },
+  {
+    "id": "025",
+    "title": "Flight",
+    "imdbRating": 7.3,
+    "year": 2012,
+    "length": "2h 18min",
+    "genres": ["Drama", "Thriller"]
+  },
+  {
+    "id": "026",
+    "title": "Forrest Gump",
+    "imdbRating": 8.8,
+    "year": 1994,
+    "length": "2h 22min",
+    "genres": ["Drama", "Romance"]
+  },
+  {
+    "id": "027",
+    "title": "Gladiator",
+    "imdbRating": 8.5,
+    "year": 2000,
+    "length": "2h 35min",
+    "genres": ["Action", "Adventure", "Drama"]
+  },
+  {
+    "id": "028",
+    "title": "Good Will Hunting",
+    "imdbRating": 8.3,
+    "year": 1997,
+    "length": "2h 6min",
+    "genres": ["Drama", "Romance"]
+  },
+  {
+    "id": "029",
+    "title": "Her",
+    "imdbRating": 8.0,
+    "year": 2013,
+    "length": "2h 6min",
+    "genres": ["Drama", "Romance", "Sci-Fi"]
+  },
+  {
+    "id": "030",
+    "title": "I Am Sam",
+    "imdbRating": 7.6,
+    "year": 2001,
+    "length": "2h 12min",
+    "genres": ["Drama"]
+  },
+  {
+    "id": "031",
+    "title": "In Time",
+    "imdbRating": 6.7,
+    "year": 2011,
+    "length": "1h 49min",
+    "genres": ["Action", "Sci-Fi", "Thriller"] 
+  },
+  {
+    "id": "032",
+    "title": "Incendies",
+    "imdbRating": 8.3,
+    "year": 2010,
+    "length": "2h 11min",
+    "genres": ["Drama", "Mystery", "War"] 
+  },
+  {
+    "id": "033",
+    "title": "Inception",
+    "imdbRating": 8.8,
+    "year": 2010,
+    "length": "2h 28min",
+    "genres": ["Action", "Drama", "Sci-Fi"] 
+  },
+  {
+    "id": "034",
+    "title": "Ip Man",
+    "imdbRating": 8.0,
+    "year": 2008,
+    "length": "1h 46min",
+    "genres": ["Action", "Biography", "Drama"] 
+  },
+  {
+    "id": "035",
+    "title": "John Q",
+    "imdbRating": 7.1,
+    "year": 2002,
+    "length": "1h 56min",
+    "genres": ["Crime", "Drama", "Thriller"] 
+  },
+  {
+    "id": "036",
+    "title": "Law Abiding Citizen",
+    "imdbRating": 7.4,
+    "year": 2009,
+    "length": "1h 49min",
+    "genres": ["Action", "Crime", "Drama"] 
+  },
+  {
+    "id": "037",
+    "title": "Lee Daniels' The Butler",
+    "imdbRating": 7.2,
+    "year": 2013,
+    "length": "2h 12min",
+    "genres": ["Biography", "Drama"]
+  },
+  {
+    "id": "038",
+    "title": "Life Is Beautiful",
+    "imdbRating": 8.6,
+    "year": 1997,
+    "length": "1h 56min",
+    "genres": ["Comedy", "Drama", "Romance"] 
+  },
+  {
+    "id": "039",
+    "title": "Limitless",
+    "imdbRating": 7.4,
+    "year": 2011,
+    "length": "1h 45min",
+    "genres": ["Sci-Fi", "Thriller"] 
+  },
+  {
+    "id": "040",
+    "title": "Lion",
+    "imdbRating": 8.0,
+    "year": 2016,
+    "length": "1h 58min",
+    "genres": ["Biography", "Drama"] 
+  },
+  {
+    "id": "041",
+    "title": "Memento",
+    "imdbRating": 8.4,
+    "year": 2000,
+    "length": "1h 53min",
+    "genres": ["Mystery", "Thriller"] 
+  },
+  {
+    "id": "042",
+    "title": "Men of Honor",
+    "imdbRating": 7.2,
+    "year": 2000,
+    "length": "2h 9min",
+    "genres": ["Biography", "Drama"]
+  },
+  {
+    "id": "043",
+    "title": "Nightcrawler",
+    "imdbRating": 7.8,
+    "year": 2014,
+    "length": "1h 57min",
+    "genres": ["Crime", "Drama", "Thriller"]
+  },
+  {
+    "id": "044",
+    "title": "No Escape",
+    "imdbRating": 6.8,
+    "year": 2015,
+    "length": "1h 43min",
+    "genres": ["Action", "Thriller"]
+  },
+  {
+    "id": "045",
+    "title": "Ocean's Eleven",
+    "imdbRating": 7.7,
+    "year": 2001,
+    "length": "1h 56min",
+    "genres": ["Crime", "Thriller"]
+  },
+  {
+    "id": "046",
+    "title": "Of Mice and Men",
+    "imdbRating": 7.5,
+    "year": 1992,
+    "length": "1h 55min",
+    "genres": ["Drama", "Western"]
+  },
+  {
+    "id": "047",
+    "title": "Parasite",
+    "imdbRating": 8.6,
+    "year": 2019,
+    "length": "2h 12min",
+    "genres": ["Comedy", "Drama", "Thriller"]
+  },
+  {
+    "id": "048",
+    "title": "Patch Adams",
+    "imdbRating": 6.8,
+    "year": 1998,
+    "length": "1h 55min",
+    "genres": ["Biography", "Comedy", "Drama"]
+  },
+  {
+    "id": "049",
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "imdbRating": 8.0,
+    "year": 2003,
+    "length": "2h 23min",
+    "genres": ["Action", "Adventure", "Fantasy"]
+  },
+  {
+    "id": "050",
+    "title": "Rain Man",
+    "imdbRating": 8.0,
+    "year": 1988,
+    "length": "2h 13min",
+    "genres": ["Drama"]
+  },
+  {
+    "id": "051",
+    "title": "Requiem for a Dream",
+    "imdbRating": 8.3,
+    "year": 2000,
+    "length": "1h 42min",
+    "genres": ["Drama"]
+  },
+  {
+    "id": "052",
+    "title": "Saving Private Ryan",
+    "imdbRating": 8.6,
+    "year": 1998,
+    "length": "2h 49min",
+    "genres": ["Drama", "War"]
+  },
+  {
+    "id": "053",
+    "title": "Scarface",
+    "imdbRating": 8.3,
+    "year": 1983,
+    "length": "2h 50min",
+    "genres": ["Crime", "Drama"]
+  },
+  {
+    "id": "054",
+    "title": "Scent of a Woman",
+    "imdbRating": 8.0,
+    "year": 1992,
+    "length": "2h 36min",
+    "genres": ["Drama"]
+  },
+  {
+    "id": "055",
+    "title": "Schindler's List",
+    "imdbRating": 8.9,
+    "year": 1993,
+    "length": "3h 15min",
+    "genres": ["Biography", "Drama", "History"]
+  },
+  {
+    "id": "056",
+    "title": "Se7en",
+    "imdbRating": 8.6,
+    "year": 1995,
+    "length": "2h 7min",
+    "genres": ["Crime", "Drama", "Mystery"]
+  },
+  {
+    "id": "057",
+    "title": "Shaolin",
+    "imdbRating": 6.9,
+    "year": 2011,
+    "length": "2h 11min",
+    "genres": ["Action", "Drama"]
+  },
+  {
+    "id": "058",
+    "title": "Shooter",
+    "imdbRating": 7.2,
+    "year": 2007,
+    "length": "2h 4min",
+    "genres": ["Action", "Drama", "Thriller"]
+  },
+  {
+    "id": "059",
+    "title": "Shutter Island",
+    "imdbRating": 8.2,
+    "year": 2010,
+    "length": "2h 18min",
+    "genres": ["Mystery", "Thriller"]
+  },
+  {
+    "id": "060",
+    "title": "Slumdog Millionaire",
+    "imdbRating": 8.0,
+    "year": 2008,
+    "length": "2h",
+    "genres": ["Drama", "Romance"]
+  },
+  {
+    "id": "061",
+    "title": "Special Forces",
+    "imdbRating": 6.4,
+    "year": 2011,
+    "length": "1h 49min",
+    "genres": ["Action", "Drama", "War"]
+  },
+  {
+    "id": "062",
+    "title": "Split",
+    "imdbRating": 7.3,
+    "year": 2016,
+    "length": "1h 57min",
+    "genres": ["Horror", "Thriller"]
+  },
+  {
+    "id": "063",
+    "title": "Tenet",
+    "imdbRating": 7.4,
+    "year": 2020,
+    "length": "2h 30min",
+    "genres": ["Action", "Sci-Fi", "Thriller"]
+  },
+  {
+    "id": "064",
+    "title": "The Best Offer",
+    "imdbRating": 7.8,
+    "year": 2013,
+    "length": "2h 11min",
+    "genres": ["Crime", "Drama", "Mystery"]
+  },
+  {
+    "id": "065",
+    "title": "The Big Short",
+    "imdbRating": 7.8,
+    "year": 2015,
+    "length": "2h 10min",
+    "genres": ["Biography", "Comedy", "Drama"]
+  },
+  {
+    "id": "066",
+    "title": "The Blind Side",
+    "imdbRating": 7.6,
+    "year": 2009,
+    "length": "2h 9min",
+    "genres": ["Biography", "Drama", "Sport"]
+  },
+  {
+    "id": "067",
+    "title": "The Bourne Identity",
+    "imdbRating": 7.9,
+    "year": 2002,
+    "length": "1h 59min",
+    "genres": ["Action", "Mystery", "Thriller"] 
+  },
+  {
+    "id": "068",
+    "title": "The Bucket List",
+    "imdbRating": 7.4,
+    "year": 2007,
+    "length": "1h 37min",
+    "genres": ["Adventure", "Comedy", "Drama"]
+  },
+  {
+    "id": "069",
+    "title": "The Chorus",
+    "imdbRating": 7.9,
+    "year": 2004,
+    "length": "1h 37min",
+    "genres": ["Comedy", "Drama", "Music"] 
+  },
+  {
+    "id": "070",
     "title": "The Curious Case of Benjamin Button",
     "imdbRating": 7.8,
     "year": 2008,
@@ -7,6 +560,135 @@
     "genres": ["Drama", "Fantasy", "Romance"]
   },
   {
+    "id": "071",
+    "title": "The Equalizer",
+    "imdbRating": 7.2,
+    "year": 2014,
+    "length": "2h 12min",
+    "genres": ["Action", "Crime", "Thriller"]
+  },
+  {
+    "id": "072",
+    "title": "The Gentlemen",
+    "imdbRating": 7.8,
+    "year": 2019,
+    "length": "1h 53min",
+    "genres": ["Action", "Comedy", "Crime"]
+  },
+  {
+    "id": "073",
+    "title": "The Godfather",
+    "imdbRating": 9.2,
+    "year": 1972,
+    "length": "2h 55min",
+    "genres": ["Crime", "Drama"]
+  },
+  {
+    "id": "074",
+    "title": "The Grey",
+    "imdbRating": 6.8,
+    "year": 2011,
+    "length": "1h 57min",
+    "genres": ["Action", "Adventure", "Drama"]
+  },
+  {
+    "id": "075",
+    "title": "The Hunt",
+    "imdbRating": 8.3,
+    "year": 2012,
+    "length": "1h 55min",
+    "genres": ["Drama"]
+  },
+  {
+    "id": "076",
+    "title": "The Illusionist",
+    "imdbRating": 7.6,
+    "year": 2006,
+    "length": "1h 50min",
+    "genres": ["Drama", "Fantasy", "Mystery"]
+  },
+  {
+    "id": "077",
+    "title": "The Intouchables",
+    "imdbRating": 8.5,
+    "year": 2011,
+    "length": "1h 52min",
+    "genres": ["Biography", "Comedy", "Drama"] 
+  },
+  {
+    "id": "078",
+    "title": "The Irishman",
+    "imdbRating": 7.8,
+    "year": 2019,
+    "length": "3h 29min",
+    "genres": ["Biography", "Crime", "Drama"]
+  },
+  {
+    "id": "079",
+    "title": "The King's Speech",
+    "imdbRating": 8.0,
+    "year": 2010,
+    "length": "1h 58min",
+    "genres": ["Biography", "Drama", "History"]
+  },
+  {
+    "id": "080",
+    "title": "The Last Samurai",
+    "imdbRating": 7.7,
+    "year": 2003,
+    "length": "2h 34min",
+    "genres": ["Action", "Drama"]
+  },
+  {
+    "id": "081",
+    "title": "The Martian",
+    "imdbRating": 8.0,
+    "year": 2015,
+    "length": "2h 24min",
+    "genres": ["Adventure", "Drama", "Sci-Fi"]
+  },
+  {
+    "id": "082",
+    "title": "The Nice Guys",
+    "imdbRating": 7.4,
+    "year": 2016,
+    "length": "1h 56min",
+    "genres": ["Action", "Comedy", "Crime"]
+  },
+  {
+    "id": "083",
+    "title": "The Patriot",
+    "imdbRating": 7.2,
+    "year": 2000,
+    "length": "2h 45min",
+    "genres": ["Action", "Drama", "History"]
+  },
+  {
+    "id": "084",
+    "title": "The Pianist",
+    "imdbRating": 8.5,
+    "year": 2002,
+    "length": "2h 30min",
+    "genres": ["Biography", "Drama", "Music"]
+  },
+  {
+    "id": "085",
+    "title": "The Prestige",
+    "imdbRating": 8.5,
+    "year": 2006,
+    "length": "2h 10min",
+    "genres": ["Drama", "Mystery", "Sci-Fi"]
+  },
+  {
+    "id": "086",
+    "title": "The Pursuit of Happyness",
+    "imdbRating": 8.0,
+    "year": 2006,
+    "length": "1h 57min",
+    "genres": ["Biography", "Drama"]
+  },
+  {
+    "id": "087",
     "title": "The Shawshank Redemption",
     "imdbRating": 9.3,
     "year": 1994,
@@ -14,10 +696,107 @@
     "genres": ["Drama"]
   },
   {
-    "title": "Se7en",
-    "imdbRating": 8.6,
-    "year": 1995,
-    "length": "2h 7min",
-    "genres": ["Crime", "Drama", "Mystery"]
+    "id": "088",
+    "title": "The Social Network",
+    "imdbRating": 7.7,
+    "year": 2010,
+    "length": "2h",
+    "genres": ["Biography", "Drama"]
+  },
+  {
+    "id": "089",
+    "title": "The Talented Mr. Ripley",
+    "imdbRating": 7.4,
+    "year": 1999,
+    "length": "2h 19min",
+    "genres": ["Drama", "Crime", "Thriller"]
+  },
+  {
+    "id": "090",
+    "title": "The Terminal",
+    "imdbRating": 7.4,
+    "year": 2004,
+    "length": "2h 8min",
+    "genres": ["Comedy", "Drama", "Romance"]
+  },
+  {
+    "id": "091",
+    "title": "The Trial of the Chicago 7",
+    "imdbRating": 7.8,
+    "year": 2020,
+    "length": "2h 9min",
+    "genres": ["Drama", "History", "Thriller"]
+  },
+  {
+    "id": "092",
+    "title": "The Wolf of Wall Street",
+    "imdbRating": 8.2,
+    "year": 2013,
+    "length": "3h",
+    "genres": ["Biography", "Crime", "Drama"]
+  },
+  {
+    "id": "093",
+    "title": "There Will Be Blood",
+    "imdbRating": 8.2,
+    "year": 2007,
+    "length": "2h 38min",
+    "genres": ["Drama"]
+  },
+  {
+    "id": "094",
+    "title": "Titanic",
+    "imdbRating": 7.8,
+    "year": 1997,
+    "length": "3h 14min",
+    "genres": ["Drama", "Romance"]
+  },
+  {
+    "id": "095",
+    "title": "Troy",
+    "imdbRating": 7.2,
+    "year": 2004,
+    "length": "2h 43min",
+    "genres": ["Drama", "History"]
+  },
+  {
+    "id": "096",
+    "title": "Uncut Gems",
+    "imdbRating": 7.4,
+    "year": 2019,
+    "length": "2h 15min",
+    "genres": ["Crime", "Drama", "Thriller"]
+  },
+  {
+    "id": "097",
+    "title": "V for Vendetta",
+    "imdbRating": 8.1,
+    "year": 2005,
+    "length": "2h 12min",
+    "genres": ["Action", "Drama", "Sci-Fi"]
+  },
+  {
+    "id": "098",
+    "title": "War Horse",
+    "imdbRating": 7.2,
+    "year": 2011,
+    "length": "2h 26min",
+    "genres": ["Action", "Adventure", "Drama"]
+  },
+  {
+    "id": "099",
+    "title": "Whiplash",
+    "imdbRating": 8.5,
+    "year": 2014,
+    "length": "1h 46min",
+    "genres": ["Drama", "Music"]
+  },
+  {
+    "id": "100",
+    "title": "Your Name.",
+    "imdbRating": 8.4,
+    "year": 2016,
+    "length": "1h 46min",
+    "genres": ["Animation", "Drama", "Fantasy"] 
   }
 ]

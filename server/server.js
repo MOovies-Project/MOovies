@@ -1,4 +1,5 @@
 import express from 'express';
+import fs from 'fs';
 
 const app = express();
 const port = 5000;
@@ -11,7 +12,13 @@ app.get('/', (req, res) => {
 });
 
 app.get('/favourite-movies-list', (req, res) => {
-  res.send('Favourite 100');
+  fs.readFile('favourite-movies-list.json', (err, data) => {
+    if (err) {
+      throw err;
+    }
+    let favouriteMoviesList = JSON.parse(data);
+    res.json(favouriteMoviesList);
+  });
 });
 
 app.listen(port, () => {
