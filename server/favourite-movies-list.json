@@ -1,0 +1,23 @@
+[
+  {
+    "title": "The Curious Case of Benjamin Button",
+    "imdbRating": 7.8,
+    "year": 2008,
+    "length": "2h 46min",
+    "genres": ["Drama", "Fantasy", "Romance"]
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "imdbRating": 9.3,
+    "year": 1994,
+    "length": "2h 22min",
+    "genres": ["Drama"]
+  },
+  {
+    "title": "Se7en",
+    "imdbRating": 8.6,
+    "year": 1995,
+    "length": "2h 7min",
+    "genres": ["Crime", "Drama", "Mystery"]
+  }
+]
