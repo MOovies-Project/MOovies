@@ -13,9 +13,7 @@ app.get('/', (req, res) => {
 
 app.get('/favourite-movies-list', (req, res) => {
   fs.readFile('favourite-movies-list.json', (err, data) => {
-    if (err) {
-      throw err;
-    }
+    if (err) throw err;
     let favouriteMoviesList = JSON.parse(data);
     res.json(favouriteMoviesList);
   });
