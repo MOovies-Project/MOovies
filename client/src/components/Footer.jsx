@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer>
       <p>
-        Copyright © {currentYear} MOovies. All rights reserved by Christian
+        Copyright © {currentYear} MOovies Inc. All rights reserved by Christian
         El-Hamaoui.
       </p>
     </footer>

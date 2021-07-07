@@ -2,9 +2,11 @@ import React from 'react';
 
 function Header() {
   return (
-    <header>
-      <h1>MOovies</h1>
-    </header>
+    <nav class='navbar navbar-expand-lg'>
+      <a class='navbar-brand mb-0 h1' href='http://localhost:3000/'>
+        MOovies
+      </a>
+    </nav>
   );
 }
 
