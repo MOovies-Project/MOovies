@@ -6,6 +6,7 @@ import CssBaseline from '@material-ui/core/CssBaseline';
 
 // Custom JSX components imports
 import Header from './header/Header';
+import FavouriteMovies from './FavouriteMovies';
 
 const theme = createTheme({
   palette: {
@@ -35,7 +36,8 @@ function App() {
     <div>
       <ThemeProvider theme={theme}>
         <CssBaseline />
-        <Header></Header>
+        <Header />
+        <FavouriteMovies />
       </ThemeProvider>
     </div>
   );
