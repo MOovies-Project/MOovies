@@ -5,24 +5,27 @@ import { makeStyles } from '@material-ui/core/styles';
 import Typography from '@material-ui/core/Typography';
 
 const useStyles = makeStyles((theme) => ({
-  title: {
-    color: '#FFA500',
-    marginLeft: 8,
-    marginRight: 40,
-    fontWeight: 700,
+  createdBy: {
+    fontSize: '12px',
+    marginBottom: '5px',
+    marginTop: '20px',
   },
 }));
 
-function Title() {
+function Footer() {
   const classes = useStyles();
 
   return (
     <div>
-      <Typography variant='h5' className={classes.title}>
-        MOovies
+      <Typography
+        align='center'
+        color='textSecondary'
+        className={classes.createdBy}
+      >
+        Created by Christian El-Hamaoui
       </Typography>
     </div>
   );
 }
 
-export default Title;
+export default Footer;
