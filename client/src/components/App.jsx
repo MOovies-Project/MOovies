@@ -1,12 +1,14 @@
 import React from 'react';
 
-// material-ui imports
-import { createTheme, ThemeProvider } from '@material-ui/core';
-import CssBaseline from '@material-ui/core/CssBaseline';
-
 // Custom JSX components imports
 import Header from './header/Header';
 import FavouriteMovies from './FavouriteMovies';
+import Footer from './Footer';
+
+// material-ui imports
+import { createTheme, ThemeProvider } from '@material-ui/core';
+import CssBaseline from '@material-ui/core/CssBaseline';
+import Typography from '@material-ui/core/Typography';
 
 const theme = createTheme({
   palette: {
@@ -37,7 +39,18 @@ function App() {
       <ThemeProvider theme={theme}>
         <CssBaseline />
         <Header />
+
+        {/* Disclaimer message */}
+        <Typography
+          color='textSecondary'
+          align='center'
+          style={{ marginTop: 10, color: '#d9534f', fontSize: 12 }}
+        >
+          ** Filters and Search features are currently in development **
+        </Typography>
+
         <FavouriteMovies />
+        <Footer />
       </ThemeProvider>
     </div>
   );

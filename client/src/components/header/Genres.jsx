@@ -109,7 +109,7 @@ function Genres() {
       value: '99',
     },
     {
-      name: 'Science Fiction',
+      name: 'Sci-Fi',
       value: '878',
     },
     {
