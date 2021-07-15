@@ -44,7 +44,7 @@ function App() {
         <Typography
           color='textSecondary'
           align='center'
-          style={{ marginTop: 10, color: '#d9534f', fontSize: 12 }}
+          style={{ marginTop: 10, fontSize: 12 }}
         >
           ** Filters and Search features are currently in development **
         </Typography>
